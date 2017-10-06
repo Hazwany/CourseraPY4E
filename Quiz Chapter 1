@@ -1,0 +1,67 @@
+Quiz Chapter 1
+10 Questions
+
+Q1: When Python is running in the interactive mode and displaying the chevron prompt (>>>) - what question is Python asking you?
+- What would you like to do? (correct answer)
+- What Python script would you like me to run?
+- What is your favourite color?
+- What is the next machine language instruction to run?
+
+Q2: What will the following program print out:
+    1. >>> x = 15
+    2. >>> x = x + 5
+    3. >>> print(x)
+- 20 (correct answer)
+- 5
+- 15
+- "print x"
+- x + 5
+
+Q3: Python scripts (files) have names that end with:
+- doc
+- .py (correct answer)
+- .png
+- .exe
+
+Q4: Which of these words are reserved words in Python?
+- todo
+- if
+- break (correct answer)
+- concat
+- machine
+
+Q5: What is the proper way to say “good-bye” to Python?
+- #EXIT
+- while
+- quit() (correct answer)
+- // stop
+
+Q6: Which of the parts of a computer actually executes the program instructions?
+- Input/Output Devices
+- Secondary Memory
+- Main Memory
+- Central Processing Unit (correct answer)
+
+Q7: What is "code" in the context of this course?
+- A way to encrypt data during World War II
+- A password we use to unlock Python features
+- A sequence of instructions in a programming language (correct answer)
+- A set of rules that govern the style of programs
+
+Q8: A USB memory stick is an example of which of the following components of computer architecture?
+- Output Device
+- Secondary Memory (correct answer)
+- Central Processing Unit
+- Main Memory
+
+Q9: What is the best way to think about a "Syntax Error" while programming?
+- The computer needs to have its software upgraded
+- The computer has used GPS to find your location and hates everyone from your town
+- The computer is overheating and just wants you to stop to let it cool down
+- The computer did not understand the statement that you entered (correct answer)
+
+Q10: Which of the following is not one of the programming patterns covered in Chapter 1?
+- Sequential Steps
+- Random steps (correct answer)
+- Conditional Steps
+- Repeated Steps
